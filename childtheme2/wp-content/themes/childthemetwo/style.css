@@ -1,0 +1,33 @@
+
+/*
+Theme Name: childtheme2
+Theme URL: http://alexandra.carter.yoobee.net.nz 
+Theme Author: Alex Carter
+Author URL: http://alexandra.carter.yoobee.net.nz 
+Description: Child theme based on Twenty Eleven
+Version: 0.0.1
+Template: twentyeleven
+*/
+
+@import url('../twentyeleven/style.css');
+@import url('https://fonts.googleapis.com/css?family=Passion+One');
+
+body {
+	background:#f41177;
+}
+#page {
+	background:white;
+}
+#branding {
+	background:#83dfea;
+}
+#banner {
+	background:#83dfea;
+	height:50px;
+}
+#site-title a {
+	font-size:100px;
+	line-height:120px;
+	font-family:'Passion One' sans-serif;
+	letter-spacing:20px;
+}

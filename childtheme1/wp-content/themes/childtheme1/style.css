@@ -1,0 +1,12 @@
+/*
+Theme Name: childtheme1
+Theme URL: http://alexandra.carter.yoobee.net.nz 
+Theme Author: Alex Carter
+Author URL: http://alexandra.carter.yoobee.net.nz 
+Description: Child theme based on Twenty Twelve
+Version: 0.0.1
+Template: twentytwelve
+*/
+
+@import url('../twentytwelve/style.css');
+
